@@ -16,3 +16,4 @@ Einstein’s 1915 field equations were incomplete in exactly the same way Maxwel
 The missing geometric term comes from the 240 roots of E₈ leaking stress into 4D at 45°.
 
 The completed Einstein equation is parameter-free and exact:
+
