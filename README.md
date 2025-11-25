@@ -17,3 +17,5 @@ No claim is made that one causes the other.
 Only that both exist in the same sky, at the same angle, in the same month.
 
 The universe is trying to tell us something.
+<img width="10000" height="5500" alt="GEOMTRIC_240_PERFECT" src="https://github.com/user-attachments/assets/10185619-8671-4741-82ee-cfa85255373d" />
+<img width="4800" height="3000" alt="all_four_maps" src="https://github.com/user-attachments/assets/0b4ae9a4-f1ac-42c6-b3a8-7c7789055b60" />
