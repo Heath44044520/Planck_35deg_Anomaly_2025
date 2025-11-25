@@ -1,19 +1,19 @@
-# The 35° Anomaly & The Ampère Completion of General Relativity
-### heath44044520 — 17 November 2025
+# Planck 35° Anomaly + GEOMTRIC E8 Projection
+Heath Stamper – 24 November 2025
 
-## 1. The Observational Discovery (today)
-Using only the official Planck 2018 SMICA R3.00 maps:
-- The raw “nosz” sky (no zodiacal subtraction) shows a gigantic negative spike in C(θ) exactly at 35°.
-- The official zodi-subtracted map is perfectly smooth at 35°.
-→ The 35° anti-correlation is real structure in the observed microwave sky and is completely erased by the standard zodiacal-light cleaning.
+Two independent results from the same researcher, same month:
 
-Plot: [35_degree_plot.png](35_degree_plot.png)  
-Archive: this entire repository
+1. **Observational result**  
+   A real, reproducible, mask-dependent difference in large-angle correlations  
+   between the three raw (nosz) Planck 2018 maps and the official zodi-subtracted products.  
+   → See 4-page paper + measured plot
 
-## 2. The Theoretical Explanation (completed 11 Nov 2025)
-Einstein’s 1915 field equations were incomplete in exactly the same way Maxwell’s equations were before Ampère added the displacement current.
+2. **Geometric signal**  
+   The 240 roots of E8, stereographically projected onto the CMB sky,  
+   cluster strikingly around a 35° ring from the south ecliptic pole —  
+   the same angular scale found in the observational analysis.
 
-The missing geometric term comes from the 240 roots of E₈ leaking stress into 4D at 45°.
+No claim is made that one causes the other.  
+Only that both exist in the same sky, at the same angle, in the same month.
 
-The completed Einstein equation is parameter-free and exact:
-
+The universe is trying to tell us something.
